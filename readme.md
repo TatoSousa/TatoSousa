@@ -11,9 +11,10 @@ Você irã encontrar aqui
 ### Algumas ferramentas que você encontrará aqui.
 
 <div style="display: inline">
-   <a href="https://www.postgresql.org/" target="_blank"><img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></a>
-   <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></a>
-   <a href="https://www.oracle.com/br/database/" target="_blank"><img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></a>
+   <a href="https://www.postgresql.org/" target="_blank"><img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /></a>
+   <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank"><img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></a>
+   <a href="https://www.oracle.com/br/database/" target="_blank"><img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></a>
+   <a href="https://www.oracle.com/br/database/" target="_blank"><img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original-wordmark.svg" /></a>          
 </div>
 
 ### Você me encontra aqui
