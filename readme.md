@@ -12,6 +12,8 @@ Vocë irã encontrar aqui
 
 <div style="display: inline">
    <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+   <img width='75' height='75' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
 
 ### Você me encontra aqui
