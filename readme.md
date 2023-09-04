@@ -25,4 +25,4 @@ Você irã encontrar aqui
 </div>
 
 ### Minhas estatisticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TatoSousa&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TatoSousa&show_icons=true)
