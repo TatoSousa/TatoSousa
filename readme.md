@@ -4,9 +4,9 @@ Com conhecimentos em diversos ramos de negócios tais como industrial, varejo, e
 
 Você irá encontrar aqui
 - Scripts de desempenho em SQL;
-- Scripts úteis para o desenvolvimento de sistemas
+- Scripts úteis para o desenvolvimento de sistemas;
 - Shell Scripts para automatizar as suas atividades em servidores linux;
-- Links úteis para aprendizado de SQL
+- Links úteis para aprendizado de SQL;
 
 ### Algumas ferramentas que você encontrará aqui.
 
