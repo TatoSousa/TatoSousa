@@ -2,7 +2,7 @@
 Atualmente trabalho como Administrador de banco de dados, porém já atuei em diversos áreas relacionadas com Tecnologia (suporte, redes e desenvolvimento de sistemas).
 Com conhecimentos em diversos ramos de negócios tais como industrial, varejo, e finanças.
 
-Você irã encontrar aqui
+Você irá encontrar aqui
 - Scripts de desempenho em SQL;
 - Scripts úteis para o desenvolvimento de sistemas
 - Shell Scripts para automatizar as suas atividades em servidores linux;
